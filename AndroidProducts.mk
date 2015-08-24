@@ -15,5 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_d850.mk \
     $(LOCAL_DIR)/omni_d850.mk
