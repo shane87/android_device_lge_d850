@@ -15,4 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/full_d850.mk \
     $(LOCAL_DIR)/omni_d850.mk
